@@ -7,7 +7,7 @@ Uses passport-local for authentication with JWT
 ## Setup
 
 ```
-$ git clone
+$ git clone https://github.com/royboy5/express-base.git <proj_name>
 $ cd <proj_name> && npm i
 ```
 
