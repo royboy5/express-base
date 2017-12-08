@@ -22,6 +22,7 @@ $ npm run dev
 ### Routes
 
 /signup - POST - email / password will be stored in the Db and returns a JWT
+
 /signin - POST - email / password will be verified in the Db and returns a JWT
 
 ### Headers
